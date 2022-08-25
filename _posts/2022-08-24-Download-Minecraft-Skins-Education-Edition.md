@@ -5,13 +5,13 @@ date: 2022-08-24 19:37:57
 
 ## What is minecraft education edition?
 
-Response: Minecraft: Education Edition is currently not compatible with mods. All worlds that have been approved for use with Minecraft: Education Edition can be found on our lessons page and in the Library in-game. However, it is possible to create custom resource packs for the game to change many aspects of the game. Take a look at this video from one of our amazing mentors to learn more about using resource packs with Minecraft: Education Edition: https://www.youtube.com/watch?v=tqFw0pf3Tkw&t=5s
+Response: Minecraft: Education Edition is currently not compatible with mods. All worlds that have been approved for use with Minecraft: Education Edition can be found on our lessons page and in the Library in-game. However, it is possible to create custom resource packs for the game to change many aspects of the game. Take a look at this video from one of our amazing mentors to learn more about using resource packs with Minecraft: Education Edition.
 
 [![button](https://github.com/minecraftbay/minecraftbay.github.io/blob/main/dlbutton.png?raw=true)](https://minecraftsync.com/download-minecraft-skin)
 
 
 Yeah sure I bet that you're not even the real person and this is just an autoreply because it's been 2 YEARS and there are still none of your promised features. Don't just say you'll do something and then not care enough to actually do it. So many students want custom skins and features and you say that you're going to add them, but you're too lazy to actually do it. I don't know if you've ever played Java minecraft, but it's infinitly better than education edition already so the LEAST you could do is hear us out and fufill your promises.
-I want my students to be able to play Minecraft as any character they want and specifically one that looks like them. I am educating a diverse group of students to be the next generation of computer programmers and I'm hoping Minecraft can get on board. Feel free to contact me directly at ewingreen@creoprep.org if you want to discuss further. Thanks!
+I want my students to be able to play Minecraft as any character they want and specifically one that looks like them. I am educating a diverse group of students to be the next generation of computer programmers and I'm hoping Minecraft can get on board. Feel free to contact me if you want to discuss further. Thanks!
 I am a Learning and Collaboration technologies advisor living in Cairns, Australia. An educational technology leadership background and experience managing a globally located information technology team, has given me wide experience in the application of digital technologies to a variety of educational and workplace contexts.
 I start my day by exploring Teyvat in Genshin Impact and end it after reorganizing my apartment in Final Fantasy XIV. I am a diehard fan of N64 era games and will forever feel betrayed that Megaman Legends didn't finish. Outside of gaming, I have spend my time collecting manga, collecting anime figures, and watching anime with my naked cat.
 
